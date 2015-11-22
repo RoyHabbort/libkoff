@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Libkoff\Http\Controllers\Auth;
 
-use App\User;
+use Libkoff\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Libkoff\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

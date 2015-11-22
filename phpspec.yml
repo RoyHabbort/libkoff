@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: Libkoff
+        psr4_prefix: Libkoff
         src_path: app

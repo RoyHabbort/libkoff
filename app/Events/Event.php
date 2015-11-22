@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Libkoff\Events;
 
 abstract class Event
 {
